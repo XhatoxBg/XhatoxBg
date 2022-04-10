@@ -1,6 +1,4 @@
 ## <p align="center">👋 Hi there</p>
-
-- 🔨 I'm currently working on:
   
 * Currently learning:
   * <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="25" height="25"/> </a>
